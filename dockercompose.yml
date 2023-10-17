@@ -1,0 +1,6 @@
+version : "3.9.5"
+services :
+  web :
+     image : venky7287/devops62:latest
+     ports :
+         - "8030:80"
